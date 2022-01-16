@@ -1,0 +1,8 @@
+{
+  "name": "nordlayer-GUI",
+  "description": "Nordlayer GUI to see gateways and connect to them",
+  "uuid": "nordlayergui@ignacio.bado.com",
+  "shell-version": [
+    "40"
+  ]
+}

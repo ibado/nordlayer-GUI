@@ -1,0 +1,7 @@
+/* Add your custom extension styling here */
+.nordlayer-icon {
+    background-image: url("icon.png");
+    background-size: 20px;
+    height: 20px;
+    width: 20px;
+}
